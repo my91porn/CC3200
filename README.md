@@ -3,7 +3,7 @@
 > 使用TI公司的CC3200芯片，完成基于wifi访问的近场电机控制系统的实现，设计包含网页设计与基于芯片的编程。
 
 ## 官方指南
-[TI官网手册](http://www.ti.com.cn/product/cn/CC3200/technicaldocuments)    
+[CC3200 主页](http://www.ti.com.cn/product/cn/CC3200/technicaldocuments)    
 [CC3200 TI wiki](http://processors.wiki.ti.com/index.php/CC3100_%26_CC3200)  
 [CC3200 Schematic Diagram 原理图](http://www.ti.com/cn/lit/df/tidrc48/tidrc48.pdf)    
 [CC3200 SimpleLink Wi-Fi and IoT Solution w/ MCU LaunchPad Getting Started Guide](http://www.ti.com/lit/ug/swru376e/swru376e.pdf)   
