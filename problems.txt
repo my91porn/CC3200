@@ -1,1 +1,2 @@
 1、网络应用需要有
+2、SDK下载：http://www.ti.com/tool/download/CC3200SDK    其中有SDK和ServicePack
